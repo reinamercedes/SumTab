@@ -1,0 +1,11 @@
+body{
+  padding: 10%;
+}
+p{
+  color: #333366;
+}
+h1{
+  color:#fff;
+  background-color: red;
+  text-decoration: underline;
+}
