@@ -1,0 +1,7 @@
+https://developer.chrome.com/extensions/getstarted
+https://robots.thoughtbot.com/how-to-make-a-chrome-extension
+http://lifehacker.com/5857721/how-to-build-a-chrome-extension
+https://blog.hartleybrody.com/chrome-extension/
+https://www.lullabot.com/articles/creating-a-simple-chrome-extension
+http://extensionizr.com/!#{"modules":["hidden-mode","with-bg","with-persistent-bg","no-options","no-override"],"boolean_perms":[],"match_ptrns":[]}
+chrome://extensions/?id=keaopnhlgjhfnnonfoclfjcgigpidlkf
